@@ -43,4 +43,4 @@ Doubling 1,000,000 numbers:
 
 ## Next Up
 
-Week 1, Day 2 — Pandas Series & DataFrame; data manipulation with Pandas & NumPy
+Day 2 — Pandas Series & DataFrame; data manipulation with Pandas & NumPy
