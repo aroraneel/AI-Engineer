@@ -19,7 +19,7 @@ A/B testing, and feature selection.
 | [Day 17](./Day-17-Type%20I-II%20Errors,%20Bayes%20&%20CI) | Type I and Type II errors; Bayes' theorem; confidence intervals |
 | [Day 18](./Day-18-Chi-square%20Test%20&%20Goodness-of-Fit) | Chi-square test and chi-square goodness-of-fit test |
 | [Day 19](./Day-19-ANOVA) | ANOVA: types, assumptions, and variance partitioning |
-| [Day 20](./Day-20-Capstone) | Capstone: full hypothesis-testing workflow on a real dataset — choosing the right test, interpreting results, reporting findings |
+| [Day 20](./Day-20-Capstone Project) | Capstone: full hypothesis-testing workflow on a real dataset — choosing the right test, interpreting results, reporting findings |
 
 ## What This Phase Covers
 
